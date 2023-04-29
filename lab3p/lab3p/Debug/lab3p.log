@@ -1,0 +1,14 @@
+﻿Build started 4/8/2023 4:46:30 PM.
+     1>Project "c:\Users\DELL\documents\visual studio 2013\Projects\lab3p\lab3p\lab3p.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt task1p.cpp
+         task1p.cpp
+     1>c:\users\dell\documents\visual studio 2013\projects\lab3p\lab3p\task1p.cpp(99): warning C4715: 'stack::pop' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\dell\documents\visual studio 2013\Projects\lab3p\Debug\lab3p.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\dell\documents\visual studio 2013\Projects\lab3p\Debug\lab3p.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\dell\documents\visual studio 2013\Projects\lab3p\Debug\lab3p.lib" /MACHINE:X86 Debug\task1p.obj
+         lab3p.vcxproj -> c:\users\dell\documents\visual studio 2013\Projects\lab3p\Debug\lab3p.exe
+     1>Done Building Project "c:\Users\DELL\documents\visual studio 2013\Projects\lab3p\lab3p\lab3p.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.37
