@@ -81,7 +81,7 @@ void main()
 	//l1.show();
 	l1.add(10);
 	//l1.show();
-	l1.add(20);
+	//l1.add(20);
 	l1.show();
 	l1.delete_first();
 	l1.show();
